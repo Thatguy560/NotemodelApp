@@ -12,6 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "ecstatic": "^4.1.4",
     "http-server": "^0.12.1"
   }
 }
